@@ -1,0 +1,13 @@
+E:\Personal\算法排序\算法排序\bin\Debug\netcoreapp3.1\算法排序.exe
+E:\Personal\算法排序\算法排序\bin\Debug\netcoreapp3.1\算法排序.deps.json
+E:\Personal\算法排序\算法排序\bin\Debug\netcoreapp3.1\算法排序.runtimeconfig.json
+E:\Personal\算法排序\算法排序\bin\Debug\netcoreapp3.1\算法排序.runtimeconfig.dev.json
+E:\Personal\算法排序\算法排序\bin\Debug\netcoreapp3.1\算法排序.dll
+E:\Personal\算法排序\算法排序\bin\Debug\netcoreapp3.1\算法排序.pdb
+E:\Personal\算法排序\算法排序\obj\Debug\netcoreapp3.1\算法排序.csprojAssemblyReference.cache
+E:\Personal\算法排序\算法排序\obj\Debug\netcoreapp3.1\算法排序.csproj.CoreCompileInputs.cache
+E:\Personal\算法排序\算法排序\obj\Debug\netcoreapp3.1\算法排序.AssemblyInfoInputs.cache
+E:\Personal\算法排序\算法排序\obj\Debug\netcoreapp3.1\算法排序.AssemblyInfo.cs
+E:\Personal\算法排序\算法排序\obj\Debug\netcoreapp3.1\算法排序.dll
+E:\Personal\算法排序\算法排序\obj\Debug\netcoreapp3.1\算法排序.pdb
+E:\Personal\算法排序\算法排序\obj\Debug\netcoreapp3.1\算法排序.genruntimeconfig.cache
